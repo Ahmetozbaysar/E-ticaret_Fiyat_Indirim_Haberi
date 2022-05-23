@@ -1,0 +1,2 @@
+# E-ticaret_Fiyat_Indirim_Haberi
+E-ticaret platformlarındaki (şu an için sadece Trendyol) istenilen ürünlerin istenilen fiyata geldiklerinde Telegram üzerinden bildirm almalarına yarayan basit bir uygulama. Bu haliyle uygulama pek verimli değil, sonraki aşamada sitenin tamamında ya da belirtilen bir kategorisi üzerinden yine belirlenen bir yüzde miktarınca indirim haberini telegram üzerinden haber verme işlemi eklenecektir.
